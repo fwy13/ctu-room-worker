@@ -1,0 +1,5 @@
+{
+  "student_a": { "username": "YOUR_STUDENT_ID_A", "password": "YOUR_PASSWORD_A" },
+  "student_b": { "username": "YOUR_STUDENT_ID_B", "password": "YOUR_PASSWORD_B" },
+  "student_c": { "username": "YOUR_STUDENT_ID_C", "password": "YOUR_PASSWORD_C" }
+}

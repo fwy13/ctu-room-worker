@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "dryRun": false,
+  "maxRequestsPerRun": 20,
+  "delayMs": 1000,
+  "jobs": [
+    {
+      "name": "Dat phong A ca 16h10-17h10",
+      "enabled": true,
+      "studentIds": ["student_a"],
+      "rooms": [
+        { "gc": "Mượn Tivi. ", "id_c": "5", "id_p": "1", "ngay_hoc": "26-10-2026", "sv_n": "20" }
+      ]
+    },
+    {
+      "name": "Dat phong A ca 18h20-20h20",
+      "enabled": false,
+      "studentIds": ["student_b"],
+      "rooms": [
+        { "gc": "Mượn Tivi. ", "id_c": "6", "id_p": "1", "ngay_hoc": "26-10-2026", "sv_n": "20" }
+      ]
+    }
+  ]
+}

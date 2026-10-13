@@ -1,0 +1,2 @@
+API_KEY="replace-with-a-long-random-key"
+STUDENTS_JSON='{"student_a":{"username":"STUDENT_ID","password":"PASSWORD"}}'

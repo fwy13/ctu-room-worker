@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "ctu-room-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-13",
+  "triggers": { "crons": ["0 0 * * *"] },
+  "kv_namespaces": [{"binding": "BOOKINGS", "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"}]
+}
